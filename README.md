@@ -3,7 +3,8 @@ Write google searching results into a database.
 
 
 # How it works
-The script will save latest searching results (20 titles and urls by default) of each line in to_search.txt into google_search_results.db (which will be created if not existing).
+The script will save latest searching results (20 titles and urls by default) of each line (keywords) in to_search.txt into google_search_results.db (which will be created if not existing).
+Note that by default the database will only save 20 latest searching results of each part of keywords.
 
 
 # Environment
