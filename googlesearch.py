@@ -1,7 +1,7 @@
 '''
 Created on May 5, 2017
-
 @original author: anthony
+https://github.com/anthonyhseb/googlesearch
 '''
 import urllib.request as urllib2
 import math
